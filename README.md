@@ -1,0 +1,1 @@
+# Klasifikasi-Spesies-Plasmodium-Dari-Citra-Busuk-Tipis-Menggunakan-Deep-Learning-Untuk-Diagnosis-Mala
