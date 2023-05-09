@@ -2,6 +2,8 @@
 
 # README
 
+https://www.youtube.com/watch?v=eBggPVWZ5OM
+
 ## Introduction
 
 Malaria is an acute infectious disease caused by protozoa from the Plasmodium genus, which is transmitted to humans through the bite of infected female Anopheles mosquitoes. It is one of the major health problems that cause death in high-risk groups such as infants, toddlers, and pregnant women. Malaria is ranked among the top 10 diseases causing death globally, with Indonesia being the second highest country in terms of the number of cases of malaria in Southeast Asia. The lack of early detection contributes to high mortality rates in malaria cases. 
