@@ -2,7 +2,8 @@
 
 # README
 
-https://www.youtube.com/watch?v=eBggPVWZ5OM
+Preview Video README
+This repository contains a preview video for this YouTube video.
 
 ## Introduction
 
