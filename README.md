@@ -1,12 +1,13 @@
 
 
-# README
+# CLASSIFICATION OF PLASMODIUM SPECIES FROM THIN SMEAR IMAGES USING DEEP LEARNING FOR EARLY MALARIA DIAGNOSIS 
 
 "This research project was awarded the Gold Medal at the Negeri Sembilan International Exposition (NSIEx) 2022, in recognition of its outstanding contributions to the field. We are honored to receive this prestigious award and grateful for the opportunity to showcase our research at this international event."
 
-<h2>🚀 Demo</h2>
+<h2>🚀 Preview </h2>
 
-[https://www.youtube.com/watch?v=eBggPVWZ5OM](https://www.youtube.com/watch?v=eBggPVWZ5OM)
+[![Preview video](https://i.ytimg.com/vi/eBggPVWZ5OM/hqdefault.jpg)](https://www.youtube.com/watch?v=eBggPVWZ5OM)
+
 
 ## Introduction
 
