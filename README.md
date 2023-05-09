@@ -25,3 +25,10 @@ This research presents a prototype that can assist healthcare workers in diagnos
 ## References
 
 - Berzosa, P., de Lucio, A., Romay-Barja, M., Herrador, Z., Gonzalez, V., Garcia, L., Fernández-Martínez, A., Santana-Morales, M. A., & Valladares, B. (2018). Comparison of three diagnostic methods (microscopy, RDT, and PCR) for the detection of malaria parasites in representative samples from Equatorial Guinea. Malaria Journal, 17(1), 333. https://doi.org/10.1186/s12936-018-2489-9
+- Fitriany, Julia., Sabiq, Ahmad. (2018). Malaria. Jurnal Averrous Vol. 4, No. 2, 1-2. 
+- Gebrekidan, L. D., & Hiruy, H. N. (2019). Assessment of malaria microscopic diagnosis performance of laboratory professionals in Addis Ababa’s Public Health Facilities. Training, 5(93), 44-08. 
+- Herlambang, Muhammad Fahmi (2020) TA: Pengenalan Karakter Huruf Braille dengan Metode Convolutional Neural Network. Skripsi thesis, Institut Teknologi Nasional Bandung. 
+- Kassim, Y.M., Yang, F., Yu,H., Maude, R.J., Jaeger, S. (2021). Diagnosing Malaria Patients with Plasmodium falciparum and vivax Using Deep Learning for Thick Smear Images. Diagnostics 2021, 11, 1994. https://doi.org/10.3390/diagnostics11111994. 
+- Nugroho, H. A., Akbar, S. A., & Murhandarwati, E. E. H. (2015, October). Feature extraction and classification for detection malaria parasites in thin blood smear. In 2015 2nd international conference on information technology, computer, and electrical engineering (ICITACEE) (pp. 197-201). IEEE.  
+- Vijayalakshmi, A. (2020). Deep learning approach to detect malaria from microscopic images. Multimedia Tools and Applications, 79(21), 15297-15317. 
+- World Health Organization. 2021. World malaria report. Geneva, Switzerland: World Health Organization.  
