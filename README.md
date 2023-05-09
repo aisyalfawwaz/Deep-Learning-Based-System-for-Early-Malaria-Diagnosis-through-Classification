@@ -1,6 +1,6 @@
 
 
-# CLASSIFICATION OF PLASMODIUM SPECIES FROM THIN SMEAR IMAGES USING DEEP LEARNING FOR EARLY MALARIA DIAGNOSIS 
+# Yolov5: A Deep Learning-Based System for Early Malaria Diagnosis through Classification of Plasmodium Species from Thin Smear Images 
 
 "This research project was awarded the Gold Medal at the Negeri Sembilan International Exposition (NSIEx) 2022, in recognition of its outstanding contributions to the field. We are honored to receive this prestigious award and grateful for the opportunity to showcase our research at this international event."
 
